@@ -128,14 +128,5 @@ All data is stored locally in `library.json`, auto-created on first run. Example
 | Borrow Book | Decrements `available_copies`, logs borrow entry to member |
 | Return Book | Increments `available_copies`, removes entry from member |
 
----
 
-## 🤝 Contributing
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
