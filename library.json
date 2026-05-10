@@ -1,0 +1,64 @@
+{
+    "books": [
+        {
+            "id": "B-JX0O9",
+            "title": "asdf",
+            "author": "me",
+            "total_copies": 23,
+            "available_copies": 23,
+            "added_on": "2026-05-10 13:17:20"
+        },
+        {
+            "id": "B-J314P",
+            "title": "bangla",
+            "author": "me",
+            "total_copies": 20,
+            "available_copies": 20,
+            "added_on": "2026-05-10 13:22:53"
+        },
+        {
+            "id": "B-C4GFI",
+            "title": "english 1st paper",
+            "author": "NTRCA",
+            "total_copies": 25,
+            "available_copies": 25,
+            "added_on": "2026-05-10 15:35:27"
+        },
+        {
+            "id": "B-CN0IL",
+            "title": "bangla 2nd paper",
+            "author": "NTRCA",
+            "total_copies": 1,
+            "available_copies": 0,
+            "added_on": "2026-05-10 17:24:24"
+        },
+        {
+            "id": "B-8H852",
+            "title": "bangla 2nd paper",
+            "author": "NTRCA",
+            "total_copies": 6,
+            "available_copies": 6,
+            "added_on": "2026-05-10 17:24:29"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-320RN",
+            "name": "Ashfaque",
+            "email": "ashfaque111@gmail.com",
+            "borrowed": []
+        },
+        {
+            "id": "M-D4VKW",
+            "name": "sinan",
+            "email": "sinan1101@gmail.com",
+            "borrowed": [
+                {
+                    "book_id": "B-CN0IL",
+                    "title": "bangla 2nd paper",
+                    "borrow_on": "2026-05-10 17:25:28"
+                }
+            ]
+        }
+    ]
+}
